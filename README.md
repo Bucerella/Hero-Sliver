@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Hero & Sliver
 
-Bu örnekte iki farklı, Hero animasyon örneği yapılmıştır. Diğer örneğe geçildiğinde Sliver widgetıda kullanılmıştır. </br>Şekilli/şüküllü geçişler vardır.</br> Sliver ise listeyi yukarıya kaydırdıkça bükülen yapı gibi bir şey.  </br>
+Bu örnekte iki farklı, Hero animasyon örneği yapılmıştır. Diğer örneğe geçildiğinde Sliver widgetıda kullanılmıştır. </br>Şekilli/şüküllü geçişler vardır.</br> Sliver; listeyi yukarıya kaydırdıkça bükülen yapı gibi bir şey.  </br>
 Sliver widget tanıtımı için;  [Sliver](https://www.youtube.com/watch?v=R9C5KMJKluE)
 linkinden erişebilirsiniz. </br>
 Hero widget tanıtımı için;   [Hero](https://www.youtube.com/watch?v=Be9UH1kXFDw) linkinden erişebilirsiniz.
