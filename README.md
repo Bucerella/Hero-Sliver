@@ -1,5 +1,4 @@
-# hero_animation_qrcode
-
+# hero_animation_sliver
 A new Flutter project.
 
 ## Getting Started
